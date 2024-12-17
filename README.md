@@ -40,6 +40,7 @@ Here's a list of resources that you might find useful to complete this exercise:
 - You can work directly with the example data provided in `csvData.ts` and disregard the actual CSV file upload.
 - There will be no more than 20 rows in the file, so performance optimizations are not required.
 - You do not need to build the care flow in Awell Studio. An existing care flow is already available. However, logging into Awell Studio and Awell Care might help you better understand how the solution ties together and verify that your script works (Tip: this verification happens in Awell Care).
+- The Elation identifier system is already set up and ready to use.
 
 ## Getting started
 
