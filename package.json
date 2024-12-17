@@ -1,0 +1,28 @@
+{
+  "name": "solution-engineer-take-home",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && functions-framework --target=take-home-exercise",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Take home exercise for the Solution Engineer position at Awell.",
+  "dependencies": {
+    "@awell-health/awell-sdk": "^0.1.17",
+    "@google-cloud/functions-framework": "^3.4.2",
+    "dotenv": "^16.4.5",
+    "pino": "^9.4.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.3.0",
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
