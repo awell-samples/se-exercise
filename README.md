@@ -17,7 +17,7 @@ Here's a list of resources that you might find useful to complete this exercise:
 - [Awell API Reference](https://developers.awellhealth.com/awell-orchestration/api-reference/overview/graphql-api)
 - [Awell SDK](https://www.npmjs.com/package/@awell-health/awell-sdk)
 - [Awell Studio*](https://studio.sandbox.awellhealth.com/): Awell's UI for creating care flows (=Design).
-- [Awell Care*](https://care.sandbox.awellhealth.com/): Awell's UI for managing patients and care flows (=Orchestration).
+- [Awell Care*](https://care.sandbox.awellhealth.com/): Awell's UI to Operate/Orchestrate care flows and manage patients (=Orchestration).
 - [Awell's Help Center](https://help.awellhealth.com/en/)
 - The `constants.ts` file contains some constants that you might find useful.
 
