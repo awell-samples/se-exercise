@@ -4,9 +4,7 @@
 
 A customer is using Awell to automate the closure of care gaps, specifically ensuring that women over the age of 50 undergo breast cancer screenings. To achieve this, a care flow is initiated to guide the completion of the necessary tasks.
 
-At the beginning of each day, the customer uploads a CSV file to a file bucket. Each row in the file represents a patient who requires a "Breast Screening" care flow to be started. Your task is to design a solution that processes this file and triggers the corresponding care flow for each patient.
-
-This exercise focuses on the technical integration required to trigger care flows in Awell based on the uploaded file.
+At the beginning of each day, the customer uploads a CSV file to a file bucket. Each row in the file represents a patient who requires a "Breast Screening" care flow to be started. Your task is to build a solution that processes the file and triggers the corresponding care flow for each row/patient.
 
 ### Modalities
 
@@ -23,7 +21,7 @@ Here's a list of resources that you might find useful to complete this exercise:
 - [Awell's Help Center](https://help.awellhealth.com/en/)
 - The `constants.ts` file contains some constants that you might find useful.
 
-* You will receive an invite to Awell Studio and Awell Care.
+\* You will receive an invite to Awell Studio and Awell Care.
 
 > Note: In Awell's documentation, "Pathway" and "Care flow" are synonymous and refer to the same concept.
 
