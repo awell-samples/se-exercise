@@ -1,0 +1,16 @@
+[
+    {
+      "elation_patient_id": "123",
+      "patient_first_name": "Michelle",
+      "patient_last_name": "Doe",
+      "last_breast_screening_date": "2021-01-01",
+      "patient_email": "michelle.doe@example.com"
+    },
+    {
+      "elation_patient_id": "456",
+      "patient_first_name": "Jane",
+      "patient_last_name": "Smith",
+      "last_breast_screening_date": "2019-01-01",
+      "patient_email": "jane.smith@example.com"
+    }
+  ]
