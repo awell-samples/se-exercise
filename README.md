@@ -57,3 +57,9 @@ Here are some resources you may find helpful for completing this exercise:
   - However, logging into **Awell Studio** and **Awell Care** might help you better understand how your solution ties together.
   - You can verify that your script works in **Awell Care**.
 - The **Elation identifier system** is already set up and ready to use.
+
+## Getting Help
+
+We aim to simulate an environment that reflects how we work in the real world. This means you can ask questions, seek clarification, and collaborate as needed—just as we would on a typical day. If you find yourself stuck or uncertain, please don’t hesitate to reach out to Nick via email for support.
+
+To ensure clarity and efficiency, we ask that you consolidate your questions into one email.
